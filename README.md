@@ -15,10 +15,8 @@ Part Number: MUSBD51100
 Step 1
 ![Step 1](https://github.com/macaba/Teensy-3.2-USB/blob/master/Images/Step%201.jpg)
 - Break some pin strip into 2/2/1 position pieces.
-- Solder the small bits of pin strips to the Teensy 3.2 in the holes that the USB PCB will be attached to. 
-
-Tip: Use the PCB as a tool for spacing the pins correctly. 
-
+- Solder the small bits of pin strips to the Teensy 3.2 in the holes that the USB PCB will be attached to.  
+Tip: Use the PCB as a tool for spacing the pins correctly.  
 Tip: Use pin strip at the other end to support the Teensy.
 
 Step 2
@@ -34,10 +32,8 @@ Step 3
 Step 4
 ![Step 4](https://github.com/macaba/Teensy-3.2-USB/blob/master/Images/Step%204.jpg)
 - Solder the other 4 pins.
-- Carefully solder the 2 surface mount pins. 
-
-Tip: Apply liquid flux with a flux pen on the surface mount pads to make the solder flow better.
-
+- Carefully solder the 2 surface mount pins.  
+Tip: Apply liquid flux with a flux pen on the surface mount pads to make the solder flow better.  
 Recommended: Cut the VUSB pin flush to the PCB to allow the final assembly to fit into a breadboard without shorting out the USB.
 
 The result should look similar to this:
@@ -45,8 +41,7 @@ The result should look similar to this:
 
 Step 5
 ![Step 5](https://github.com/macaba/Teensy-3.2-USB/blob/master/Images/Step%205.jpg)
-- Solder the rest of the pins onto the Teensy.
-
+- Solder the rest of the pins onto the Teensy.  
 Tip: If the pin strip doesn't quite fit alongside the PCB, file down the end slightly.
 
 Step 6
