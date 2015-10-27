@@ -1,4 +1,5 @@
 # Teensy 3.2 USB
+![Panel Mount](https://github.com/macaba/Teensy-3.2-USB/blob/master/Images/Panel%20Mount.jpg)
 ![The finished result](https://github.com/macaba/Teensy-3.2-USB/blob/master/Images/Arty.jpg)
 This is a simple breakout that utilises the new USB data pads on the bottom of the Teensy 3.2.
 This allows for easy panel mounted USB B connection.
