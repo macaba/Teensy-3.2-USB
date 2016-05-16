@@ -4,7 +4,7 @@
 This is a simple breakout that utilises the new USB data pads on the bottom of the Teensy 3.2.
 This allows for easy panel mounted USB B connection.
 
-Firstly; [order the PCBs from OSH Park](https://oshpark.com/projects/eDlPs3sD).  
+Firstly; [order the PCBs from OSH Park](https://oshpark.com/shared_projects/C8EaHAAq).  
 Secondly; order the USB B connector.  
 - Manufacturer: Amphenol  
 - Part Number: MUSBD51100
